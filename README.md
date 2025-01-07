@@ -6,6 +6,7 @@ He estado trabajando desde el 2019 en desarrollo web, elaborando sistemas web so
 
 **Laravel**
 - proyectos: 1
+- plugins: 1
 
 <!---
 BlackByted/BlackByted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
